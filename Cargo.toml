@@ -1,0 +1,12 @@
+[package]
+name = "blars"
+version = "0.1.0"
+authors = ["Bastian Gonzalez Acevedo <bastiangonzalezacevedo@gmail.com>"]
+edition = "2024"
+license-file = "LICENSE"
+description = "Blars is Rust library implementing BLAS (Basic Linear Algebra Subroutines) functions"
+repository = ""
+readme = "README.md"
+keywords = ["mathematics", "linear algebra"]
+
+[dependencies]
