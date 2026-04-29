@@ -254,7 +254,7 @@ where
 }
 
 #[cfg(test)]
-mod test {
+mod tests {
     use super::*;
     use crate::compare::f32_is_approx_equal;
 

@@ -5,3 +5,4 @@
 
 pub mod compare;
 pub mod complex;
+pub mod vec_ops;
